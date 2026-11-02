@@ -1,4 +1,4 @@
-<img src="https://platy.studio/platy_icon.png" alt="Platy Studio" width="56" align="right" />
+<img src="https://platy.studio/icon.svg" alt="Platy Studio" width="56" align="right" />
 
 ### Hi, I'm Kansal 👋
 
