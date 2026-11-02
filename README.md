@@ -2,13 +2,15 @@
 
 ### Hi, I'm Kansal 👋
 
-I'm the founder of **[Platy Studio](https://platy.studio)**. We make studio-grade AI localization and post-production for brands, creators, agencies and media companies.
+I'm the founder of **[Platy Studio](https://platy.studio)**: studio-grade AI localization and post-production, built for scale. Made for businesses, platforms and studios. Based in Bellevue, Washington.
 
 **What we make**
 
-- **Dub**: dubs a video into other languages, keeping each speaker's voice and timing, with checks at every step (no invented words, no drift in translation, the same voice from the first line to the last).
-- **Narrate**: turns a script into a voiceover, using a library of 1,000+ licensed voices or your own recorded takes.
-- **Captions**: transcribes and captions video in many languages.
+- **[Narrate](https://platy.studio/app/narrate)** (open beta): narration from a script, in any language. Pick a voice from 10,000+, set the pace and tone, and get finished narration.
+- **Dub** (waitlist): your shows and films in 30+ languages. Each speaker keeps their own voice, or gets a matched voice from our licensed library. Every line is checked for timing and lip sync.
+- **Captions** (waitlist): subtitles and transcripts for every market, with times and speaker names. Edit the captions, then download them in any format.
+
+Prices are on the [pricing page](https://platy.studio/pricing).
 
 **What I work on behind them**
 
@@ -20,4 +22,4 @@ Most of this lives in private repos in the [Platy-Studio](https://github.com/Pla
 
 **Open source:** [doorbell-for-claude-code](https://github.com/kansal12/doorbell-for-claude-code) rings when Claude Code needs you, and keeps ringing until you're back. It works over Remote-SSH.
 
-[platy.studio](https://platy.studio) · [Blog](https://blog.platy.studio)
+[platy.studio](https://platy.studio) · [Blog](https://platy.studio/blog) · [Careers](https://platy.studio/careers)
