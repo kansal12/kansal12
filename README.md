@@ -10,8 +10,6 @@ I'm the founder of **[Platy Studio](https://platy.studio)**: studio-grade AI loc
 - **Dub** (waitlist): your shows and films in 30+ languages. Each speaker keeps their own voice, or gets a matched voice from our licensed library. Every line is checked for timing and lip sync.
 - **Captions** (waitlist): subtitles and transcripts for every market, with times and speaker names. Edit the captions, then download them in any format.
 
-Prices are on the [pricing page](https://platy.studio/pricing).
-
 **What I work on behind them**
 
 - A model gateway that runs our speech, voice, translation and video models on our own GPUs, and decides which card each job goes to.
